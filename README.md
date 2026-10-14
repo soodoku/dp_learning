@@ -137,4 +137,13 @@ midpoint-imputed alternatives do not count as additional attitudes.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [soodoku/dp_data](https://github.com/soodoku/dp_data) — Deliberative Poll data
+- [soodoku/dp_misinformation](https://github.com/soodoku/dp_misinformation) — Deliberation and Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+- [soodoku/dp_nireland](https://github.com/soodoku/dp_nireland) — Replication Data And Scripts for How Can You Think That?: Deliberation and the Learning of Opposing Arguments
+- [soodoku/dp_distortions](https://github.com/soodoku/dp_distortions) — Replication Data and Scripts for Deliberative Distortions
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
