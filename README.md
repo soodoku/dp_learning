@@ -134,3 +134,7 @@ use upstream typed flags for the same question battery, recalculate group
 composition, and refit the baseline model with 999 hierarchical bootstrap draws.
 Baseline attitude measures use only catalog entries marked `is_primary`; named
 midpoint-imputed alternatives do not count as additional attitudes.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
