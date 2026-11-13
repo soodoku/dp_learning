@@ -148,7 +148,7 @@ selection <- function(data) {
 }
 
 # Does participation help those who start out knowing less, or those with less
-# schooling, more? The interaction of treatment with T1 knowledge (centred) and
+# schooling, more? The interaction of treatment with T1 knowledge (centered) and
 # with a bachelor's degree, in the same ANCOVA.
 heterogeneity <- function(data, contrast, treated_value, control_value, moderator) {
   data <- data |>
